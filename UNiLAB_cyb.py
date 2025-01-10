@@ -14,7 +14,7 @@ import category_encoders as ce
 # In[2]:
 
 
-get_ipython().run_line_magic('config', "InlineBackend.figure_formats = ['svg']")
+
 
 
 # In[3]:
